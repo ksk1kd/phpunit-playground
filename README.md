@@ -12,7 +12,7 @@ ddev start
 Run all tests using the following command:
 
 ```sh
-ddev exec ./vendor/bin/phpunit tests
+ddev composer test
 ```
 
 Run a specific test using the following command:
